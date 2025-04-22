@@ -15,7 +15,7 @@ This project uses neural networks to predict electricity demand based on histori
 
 ## 📂 Project Structure  
 
-📁 energy_demand_forecasting  
+📁 energy-demand-forecasting  
 │── 📂 data/                 # Electricity consumption datasets  
 │── 📂 models/               # Trained models  
 │── 📂 src/                  # Project source code  
@@ -27,8 +27,8 @@ This project uses neural networks to predict electricity demand based on histori
 ### 1️⃣ Clone the Repository  
 
 ```bash  
-git clone https://github.com/Marcos-Salguero/energy_demand_forecasting.git  
-cd energy_demand_forecasting
+git clone https://github.com/Marcos-Salguero/energy-demand-forecasting.git  
+cd energy-demand-forecasting
 ```
 
 2️⃣ Create and Activate a Virtual Environment
@@ -58,4 +58,4 @@ This project is licensed under the MIT License.
 📞 Contact  
 📧 Email: msalgueroc@gmail.com
 
-🌍 GitHub: github.com/usuario
+🌍 GitHub: github.com/Marcos-Salguero
